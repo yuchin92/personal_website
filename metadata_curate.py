@@ -107,4 +107,4 @@ collect_metadata()
 build_index_content()
 build_digiart_content()
 build_photoart_content()
-
+print('finished')

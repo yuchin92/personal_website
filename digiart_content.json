@@ -1,18 +1,6 @@
 {
-    "ANALOGRANDOMGENERATOR": {
-        "dirname": "ANALOGRANDOMGENERATOR",
-        "title": "Analog Random Generator",
-        "date": "12-02-2023",
-        "info": "Exploring Analog Randomness through Dust Simulation",
-        "description": "This work uses dust to mimic analog randomness, transforming digital noise into physical forms. While computer-generated randomness isn't truly random, this device simulates genuine randomness with dust. It also ties to the Infinite Monkey Theorem, suggesting that over time, it can generate any image, including photos from each piece exhibited.",
-        "tags": [
-            "digital-art",
-            "RNG",
-            "dust"
-        ]
-    },
-    "CCC": {
-        "dirname": "CCC",
+    "Meee": {
+        "dirname": "Meee",
         "title": "Crowd Cloud Crowded",
         "date": "07-18-2023",
         "info": "Exploring Generative AI in the Context of Data Cities",
@@ -21,18 +9,6 @@
             "digital-art",
             "e-map",
             "review"
-        ]
-    },
-    "GRADIENT_SCOTOMA": {
-        "dirname": "GRADIENT_SCOTOMA",
-        "title": "Gradient Scotoma",
-        "date": "07-18-2023",
-        "info": "Mutual Observation from the Perspectives of AI and Art",
-        "description": "As a collaborative project between AI engineer Yu-Lin Tsai and artist Mu Duan, this exhibition delves into the concept of artificial intelligence as a black box, employing metaphors of gradients and blind spots. Through the intersection of technology and art, the creators offer a unique perspective on the relationship between humans and AI, guiding viewers to explore the convergence of technology and culture.",
-        "tags": [
-            "digital-art",
-            "AI",
-            "black-box characteristic"
         ]
     }
 }

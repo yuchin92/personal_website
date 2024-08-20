@@ -1,11 +1,11 @@
 /* theme color */
 :root {
-    --section-background-color: #0d0e10;
-    --background-color: #302f2b;
-    --nav-text-color: #757664;
-    --highlight-color: #c0b7a8;
-    --button-text-color: #555648;
-    --text-color: #eee2d4;
+    --section-background-color: #6EFAFF;
+    --background-color: #ffccc7;
+    --nav-text-color: #f62222;
+    --highlight-color: #ff441a;
+    --button-text-color: #500505;
+    --text-color: #f62222;
 }
 
 html {
@@ -119,7 +119,7 @@ h1 {
 /* Main content styles */
 main {
     background: var(--background-color);
-    font-family: 'Share Tech Mono', monospace, 'Noto Sans TC', sans-serif;
+    font-family: 'Share Tech Mono', monospace, "Noto Serif TC", serif;
     color: var(--text-color);
 }
 

@@ -1,42 +1,6 @@
 {
-    "GOLDFISH": {
-        "dirname": "GOLDFISH",
-        "title": "GOLDFISH",
-        "date": "09-03-2024",
-        "info": "Eternal Remembrance through Burning Paper and Fading Memories",
-        "description": "In Taiwanese folklore, burning paper items can transmit objects to deceased relatives, allowing them to live eternally together. Origami, beyond its religious functions, strengthens familial bonds and heals sorrow. Conversely, as memory declines, recognizing people becomes harder, and familiar faces may fade away, akin to the 'goldfish brain' phenomenon. This work prints photos of the artist from childhood to adulthood on paper money, compiling them into a photo book. Viewers tear out pages, fold them into fish, and burn them, symbolizing the fading memory of loved ones. The burning fish carry the artist's image to the other side, aiming for eternal remembrance.",
-        "tags": [
-            "photobook",
-            "Joss paper Origami",
-            "memory"
-        ]
-    },
-    "ANALOGRANDOMGENERATOR": {
-        "dirname": "ANALOGRANDOMGENERATOR",
-        "title": "Analog Random Generator",
-        "date": "12-02-2023",
-        "info": "Exploring Analog Randomness through Dust Simulation",
-        "description": "This work uses dust to mimic analog randomness, transforming digital noise into physical forms. While computer-generated randomness isn't truly random, this device simulates genuine randomness with dust. It also ties to the Infinite Monkey Theorem, suggesting that over time, it can generate any image, including photos from each piece exhibited.",
-        "tags": [
-            "digital-art",
-            "RNG",
-            "dust"
-        ]
-    },
-    "ASYNCCOMMV1": {
-        "dirname": "ASYNCCOMMV1",
-        "title": "Asynchronous Communication Vol.1",
-        "date": "09-07-2023",
-        "info": "Exploring Asynchronous Communication through Handmade Photography",
-        "description": "This book presents online chat room communication through handmade photography. Unlike face-to-face conversations, online chats often lack continuity, leading to communication breakdowns without facial cues. Created by authors from Taiwan(Yu-Lin Tsai) and Switzerland(Yi-Kai Chen), the book documents a month-long exchange solely through photos. Viewers decide the conversation's pace, achieving a unique asynchronous communication experience.",
-        "tags": [
-            "photobook",
-            "online chat",
-            "jet lag"
-        ]
-    },
-    "CCC": {
-        "dirname": "CCC",
+    "Meee": {
+        "dirname": "Meee",
         "title": "Crowd Cloud Crowded",
         "date": "07-18-2023",
         "info": "Exploring Generative AI in the Context of Data Cities",
@@ -45,18 +9,6 @@
             "digital-art",
             "e-map",
             "review"
-        ]
-    },
-    "GRADIENT_SCOTOMA": {
-        "dirname": "GRADIENT_SCOTOMA",
-        "title": "Gradient Scotoma",
-        "date": "07-18-2023",
-        "info": "Mutual Observation from the Perspectives of AI and Art",
-        "description": "As a collaborative project between AI engineer Yu-Lin Tsai and artist Mu Duan, this exhibition delves into the concept of artificial intelligence as a black box, employing metaphors of gradients and blind spots. Through the intersection of technology and art, the creators offer a unique perspective on the relationship between humans and AI, guiding viewers to explore the convergence of technology and culture.",
-        "tags": [
-            "digital-art",
-            "AI",
-            "black-box characteristic"
         ]
     }
 }
